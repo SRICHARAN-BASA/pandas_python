@@ -10,7 +10,7 @@ This project focuses on data analysis and preprocessing using the Pandas library
 - pd.read_csv()
 
 - pd.read_excel()
-
+  <br><br>
 
 
 **2)🔍 Data Inspection:**
@@ -26,7 +26,7 @@ Understanding dataset structure using
 - df.columns
 
 Basic dataframe preview (df)
-
+ <br><br>
 
 **3)📌 Data Selection:**
 
@@ -36,7 +36,7 @@ Selecting specific rows and columns using
 
 - df.iloc[]
 
-
+ <br><br>
 
 **4)🧹 Handling Missing Values:**
 
@@ -53,7 +53,7 @@ df.fillna()
 df.dropna()
 
 
-
+ <br><br>
 
 **5)🔄 Data Type Conversion:**
 
@@ -61,7 +61,7 @@ Changing column data types using
 
 - df['column_name'].astype('datatype')
 
-
+ <br><br>
 
 **6)🗑️ Removing Duplicates:**
 
@@ -69,7 +69,7 @@ Cleaning duplicate records using
 
 - df.drop_duplicates()
 
-
+ <br><br>
 
 **🎯 Objective:**
 
