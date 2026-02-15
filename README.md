@@ -1,9 +1,9 @@
-📊 Project Overview:
+**📊 Project Overview:**
 
 This project focuses on data analysis and preprocessing using the Pandas library. It demonstrates how to read, inspect, clean, and transform datasets efficiently using Python.
 
 🔧 Topics Covered
-1)📂 Data Loading:
+**1)📂 Data Loading:**
 
  Reading datasets using
 
@@ -13,7 +13,7 @@ This project focuses on data analysis and preprocessing using the Pandas library
 
 
 
-2)🔍 Data Inspection:
+**2)🔍 Data Inspection:**
 
 Understanding dataset structure using
 
@@ -28,7 +28,7 @@ Understanding dataset structure using
 Basic dataframe preview (df)
 
 
-3)📌 Data Selection
+**3)📌 Data Selection:**
 
 Selecting specific rows and columns using
 
@@ -38,7 +38,7 @@ Selecting specific rows and columns using
 
 
 
-4)🧹 Handling Missing Values
+**4)🧹 Handling Missing Values:**
 
 Detecting missing data
 
@@ -55,7 +55,7 @@ df.dropna()
 
 
 
-5)🔄 Data Type Conversion
+**5)🔄 Data Type Conversion:**
 
 Changing column data types using
 
@@ -63,7 +63,7 @@ Changing column data types using
 
 
 
-6)🗑️ Removing Duplicates
+**6)🗑️ Removing Duplicates:**
 
 Cleaning duplicate records using
 
@@ -71,7 +71,7 @@ Cleaning duplicate records using
 
 
 
-🎯 Objective
+**🎯 Objective:**
 
 --->To practice real-world data cleaning and preprocessing.
 
