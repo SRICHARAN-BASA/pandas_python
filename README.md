@@ -3,51 +3,51 @@
 This project focuses on data analysis and preprocessing using the Pandas library. It demonstrates how to read, inspect, clean, and transform datasets efficiently using Python.
 
 🔧 Topics Covered
-📂 Data Loading
+1)📂 Data Loading:
 
-Reading datasets using:
+ Reading datasets using
 
-pd.read_csv()
+- pd.read_csv()
 
-pd.read_excel()
+- pd.read_excel()
 
 
 
-🔍 Data Inspection
+2)🔍 Data Inspection:
 
-Understanding dataset structure using:
+Understanding dataset structure using
 
-df.head() and df.tail()
+- df.head() and df.tail()
 
-df.shape
+- df.shape
 
-df.info()
+- df.info()
 
-df.columns
+- df.columns
 
 Basic dataframe preview (df)
 
 
 
-📌 Data Selection
+3)📌 Data Selection
 
-Selecting specific rows and columns using:
+Selecting specific rows and columns using
 
-df.loc[]
+- df.loc[]
 
-df.iloc[]
+- df.iloc[]
 
 
 
-🧹 Handling Missing Values
+4)🧹 Handling Missing Values
 
-Detecting missing data:
+Detecting missing data
 
-df.isnull()
+- df.isnull()
 
-df.isnull().sum()
+- df.isnull().sum()
 
-Handling missing values:
+Handling missing values
 
 df.fillna()
 
@@ -56,28 +56,28 @@ df.dropna()
 
 
 
-🔄 Data Type Conversion
+5)🔄 Data Type Conversion
 
-Changing column data types using:
+Changing column data types using
 
-df['column_name'].astype('datatype')
-
-
+- df['column_name'].astype('datatype')
 
 
-🗑️ Removing Duplicates
 
-Cleaning duplicate records using:
 
-df.drop_duplicates()
+6)🗑️ Removing Duplicates
+
+Cleaning duplicate records using
+
+- df.drop_duplicates()
 
 
 
 
 🎯 Objective
 
-To practice real-world data cleaning and preprocessing.
+--->To practice real-world data cleaning and preprocessing.
 
-To understand essential Pandas operations for data analysis.
+--->To understand essential Pandas operations for data analysis.
 
-To build strong foundational skills in Python data handling.
+--->To build strong foundational skills in Python data handling.
