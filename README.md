@@ -11,8 +11,7 @@ This project focuses on data analysis and preprocessing using the Pandas library
 
 - pd.read_excel()
 
-"\n"
-"\n"
+
 
 2)🔍 Data Inspection:
 
@@ -28,8 +27,6 @@ Understanding dataset structure using
 
 Basic dataframe preview (df)
 
-"\n"
-"\n"
 
 3)📌 Data Selection
 
@@ -39,8 +36,7 @@ Selecting specific rows and columns using
 
 - df.iloc[]
 
-"\n"
-"\n"
+
 
 4)🧹 Handling Missing Values
 
@@ -56,8 +52,7 @@ df.fillna()
 
 df.dropna()
 
-"\n"
-"\n"
+
 
 
 5)🔄 Data Type Conversion
@@ -66,8 +61,6 @@ Changing column data types using
 
 - df['column_name'].astype('datatype')
 
-"\n"
-"\n"
 
 
 6)🗑️ Removing Duplicates
@@ -76,8 +69,6 @@ Cleaning duplicate records using
 
 - df.drop_duplicates()
 
-"\n"
-"\n"
 
 
 🎯 Objective
